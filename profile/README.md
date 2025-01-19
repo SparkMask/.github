@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, We're SparkMask</h1>
-<h3 align="center">A startup building a better 21st century.</h3>
+<h3 align="center">We're leading what’s next for the future of privacy.</h3>
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
